@@ -1,1 +1,1 @@
-# OSGEO_project_group-9
+# OSGeo Group 9
